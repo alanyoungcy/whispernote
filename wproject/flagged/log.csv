@@ -1,0 +1,2 @@
+audio_file,output,flag,username,timestamp
+,Error communicating with the server: 500 Server Error: Internal Server Error for url: http://localhost:8000/transcribe/,,,2024-10-07 23:35:54.704889
